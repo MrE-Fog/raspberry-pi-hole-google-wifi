@@ -1,6 +1,6 @@
 # Setting up Raspberry Pi-hole DNS ad blocking on Google Wifi
 
-## Setting up Raspberry Pi-hole DNS ad blocking for your entire Google Wifi network and using Pi-hole as the DHCP server
+## Setting up Raspberry Pi-hole DNS ad blocking for your entire Google Wifi network by using Pi-hole as the DNS and DHCP server
 
 **Still working on this write up -- it is NOT complete**
 
